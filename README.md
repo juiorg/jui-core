@@ -1,1 +1,1 @@
-# jui-core
+# JUI Core
